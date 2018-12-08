@@ -111,7 +111,7 @@
     "editorGutter.addedBackground": "#9CCC65",
     "editorGutter.deletedBackground": "#EF5350",
     "diffEditor.insertedTextBackground": "#99b76d23",
-    "diffEditor.insertedTextBorder": "#a9c77d33",
+    "diffEditor.insertedTextBorder": "#A9F77C33",
     "diffEditor.removedTextBackground": "#ef535033",
     "diffEditor.removedTextBorder": "#ef53504d",
     "editorWidget.background": "#31364a",
@@ -178,18 +178,18 @@
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiBlack": "#676E95",
     "terminal.ansiBlue": "#7A99FF",
-    "terminal.ansiCyan": "#89DDFF",
-    "terminal.ansiGreen": "#a9c77d",
+    "terminal.ansiCyan": "#7BD9FF",
+    "terminal.ansiGreen": "#A9F77C",
     "terminal.ansiMagenta": "#D57DFF",
-    "terminal.ansiRed": "#ff5572",
+    "terminal.ansiRed": "#FF3E5F",
     "terminal.ansiYellow": "#FFCB6B",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightBlack": "#676E95",
     "terminal.ansiBrightBlue": "#7A99FF",
-    "terminal.ansiBrightCyan": "#89DDFF",
+    "terminal.ansiBrightCyan": "#7BD9FF",
     "terminal.ansiBrightGreen": "#A9F77C",
     "terminal.ansiBrightMagenta": "#D57DFF",
-    "terminal.ansiBrightRed": "#ff5572",
+    "terminal.ansiBrightRed": "#FF3E5F",
     "terminal.ansiBrightYellow": "#FFCB6B",
     "debugToolBar.background": "#292D3E",
     "welcomePage.buttonBackground": null,
@@ -197,7 +197,7 @@
     "walkThrough.embeddedEditorBackground": "#232635",
     "gitDecoration.modifiedResourceForeground": "#e2c08de6",
     "gitDecoration.deletedResourceForeground": "#EF535090",
-    "gitDecoration.untrackedResourceForeground": "#a9c77dff",
+    "gitDecoration.untrackedResourceForeground": "#A9F77Cff",
     "gitDecoration.ignoredResourceForeground": "#676E9590",
     "gitDecoration.conflictingResourceForeground": "#FFEB95CC",
     "editorActiveLineNumber.foreground": "#eeffff",
@@ -332,7 +332,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#a9c77d"
+        "foreground": "#A9F77C"
       }
     },
     {
@@ -353,7 +353,7 @@
       "name": "Meta Tag",
       "scope": ["punctuation.definition.tag", "meta.tag"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -371,7 +371,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -399,7 +399,7 @@
       "name": "Support Constant Property Value meta",
       "scope": "support.constant.meta.property-value",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -429,14 +429,14 @@
       "scope": "invalid.deprecated",
       "settings": {
         "foreground": "#ffffff",
-        "background": "#d3423e"
+        "background": "#FF3E5F"
       }
     },
     {
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -513,7 +513,7 @@
       "name": "Variable Parameter Function",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -532,7 +532,7 @@
       "name": "Entity Name tag reference in stylesheets",
       "scope": "meta.property-list entity.name.tag.reference",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -596,7 +596,7 @@
       "name": "Keyword Control Operator",
       "scope": "keyword.control.operator",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -615,14 +615,14 @@
         "variable.other.readwrite.instance"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
       "name": "Variable Property Other",
       "scope": ["variable.other.property", "variable.other.object.property"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -647,14 +647,14 @@
         "keyword.other.new"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -685,14 +685,14 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
       "name": "Support Variable Property",
       "scope": "support.variable.property",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -720,7 +720,7 @@
       "name": "Punctuation Section Embedded",
       "scope": "punctuation.section.embedded",
       "settings": {
-        "foreground": "#d3423e"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -752,7 +752,7 @@
       "name": "Template Strings",
       "scope": "string.template meta.template.expression",
       "settings": {
-        "foreground": "#d3423e"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -797,7 +797,7 @@
       "name": "CoffeScript Variable Assignment",
       "scope": "variable.assignment.coffee",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -811,7 +811,7 @@
       "name": "CoffeeScript Assignments",
       "scope": "variable.assignment.coffee",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -843,7 +843,7 @@
         "entity.name.tag.custom.css"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -855,7 +855,7 @@
         "entity.name.tag.wildcard.sass"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -903,7 +903,7 @@
       "name": "Elixir String Punctuations",
       "scope": "source.elixir punctuation.definition.string",
       "settings": {
-        "foreground": "#a9c77d"
+        "foreground": "#A9F77C"
       }
     },
     {
@@ -941,7 +941,7 @@
       "name": "HTML Punctuation Definition Tag",
       "scope": "punctuation.definition.tag.html",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -1117,14 +1117,14 @@
       "name": "Ruby Hashkeys",
       "scope": "constant.language.symbol.hashkey.ruby",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -1215,7 +1215,7 @@
       "name": "Markdown MetaData Punctuation",
       "scope": ["punctuation.definition.metadata.markdown"],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -1354,7 +1354,7 @@
       "name": "Tag names in SASS",
       "scope": ["entity.name.tag.scss", "entity.name.tag.sass"],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#FF3E5F"
       }
     },
     {
@@ -1441,7 +1441,7 @@
       "name": "YAML Entity Name Tags",
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
@@ -1462,7 +1462,7 @@
       "name": "handlebars enitity attribute names",
       "scope": "entity.other.attribute-name.handlebars",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7BD9FF"
       }
     },
     {
